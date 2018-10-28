@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mintui-demo
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# leTaoFromWuFu
+>>>>>>> 81e046d176f46fa51ff5701fa95e841d38b6aa52
